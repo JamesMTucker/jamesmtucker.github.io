@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "James M. Tucker"
 date:   2022-07-30 16:33:24 -0400
 categories: jekyll update
 ---
